@@ -9,6 +9,14 @@ Requires [Go](<https://golang.org/>) 17+ and git
 go install github.com/root4loot/crwl@latest
 ```
 
+### Docker
+
+```
+git clone https://github.com/root4loot/crwl.git && cd crwl
+docker build -t crwl .
+docker run -it crwl -help
+```
+
 ## ☛ Usage
 
 ```
