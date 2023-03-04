@@ -51,7 +51,7 @@ Arguments:
 
 Parallelism
 ```
-➜ crwl -domain=hackerone.com -depth=5 -parallels=12
+➜ crwl -domain=hackerone.com -depth=5 -para=12
 https://www.hackerone.com
 https://www.hackerone.com/attack-resistance-assessment
 https://www.hackerone.com/product/attack-surface-management
